@@ -1,0 +1,37 @@
+[
+  {
+    "name": "noushah",
+    "email": "Noushah@gmail.com",
+    "number": "4532456789",
+    "password": "Noushah@123",
+    "password-2": "Noushah@123"
+  },
+  {
+    "name": "sinan",
+    "email": "sinan@gmail.com",
+    "number": "5476524245",
+    "password": "Sinu@123",
+    "password-2": "Sinu@123"
+  },
+  {
+    "name": "Fayiz",
+    "email": "fayiz@gmail.com",
+    "number": "2222222222",
+    "password": "222222",
+    "password-2": "22222"
+  },
+  {
+    "name": "shijo",
+    "email": "shijo@gmail.com",
+    "number": "6875857585",
+    "password": "Shijo@123",
+    "password-2": "Shijo@123"
+  },
+  {
+    "name": "Fayiz",
+    "email": "fayiz@gmail.com",
+    "number": "8089401380",
+    "password": "fais",
+    "password-2": "fais"
+  }
+]
